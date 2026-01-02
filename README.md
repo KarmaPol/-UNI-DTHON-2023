@@ -14,8 +14,7 @@
 | 안드로이드 | 정윤진 |
 ## 기술 스택
 ![앱 소개](./images/UNI-DTHON%20발표%20자료-2.png)
-## 아키텍처
-![앱 소개](./images/UNI-DTHON%20발표%20자료-3.png)
+
 ## 핵심 기능
 ![앱 소개](./images/UNI-DTHON%20발표%20자료-4.png)
 ![앱 소개](./images/UNI-DTHON%20발표%20자료-5.png)
